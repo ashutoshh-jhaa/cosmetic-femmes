@@ -21,7 +21,7 @@ A responsive cosmetics website showcasing beauty products with a modern UI. Buil
 
 - Clone the repository:
 ```bash
-git clone https://github.com/your-username/femmes.git
+git clone https://github.com/ashutoshh-jhaa/cosmetic-femmes.git ./femmes
 ```
 
 - Navigate to the project folder:
